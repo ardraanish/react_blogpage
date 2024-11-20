@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Uncial+Antiqua&display=swap');
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    padding: 10px 0px;
+}
+
+
+.header_ul {
+    display: flex;
+    gap: 30px;
+    flex: 1 ;
+   
+}
+.liList {
+    list-style: none;
+    color: white;
+    font-size:16px;
+    font-weight:700;
+}
+.logo{
+    color: white;
+    font-family:"Uncial Antiqua",sans-serif ;
+}
+.btn{
+    padding: 15px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 700;
+    background-color: turquoise;
+}

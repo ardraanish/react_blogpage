@@ -1,0 +1,20 @@
+.footer_above{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    
+}
+li{
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    list-style: none;
+}
+h5{
+    color:white
+}
+.links_ul{
+    padding: 0;
+}
+.contact{
+    padding: 0;
+}
